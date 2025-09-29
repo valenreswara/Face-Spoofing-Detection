@@ -41,7 +41,7 @@ Face Spoofing Project/
    ```
    streamlit run app.py
    ```
-   - Upload or capture a face image to get a prediction.
+   - Upload a face image to get a prediction.
 
 ## Access the deployed Streamlit link
 [Click here to access the deployed link](https://valenreswara-face-spoofing.streamlit.app/)
