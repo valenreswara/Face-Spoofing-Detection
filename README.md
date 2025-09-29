@@ -43,6 +43,9 @@ Face Spoofing Project/
    ```
    - Upload or capture a face image to get a prediction.
 
+## Access the deployed Streamlit link
+[Click here to access the deployed link](https://valenreswara-face-spoofing.streamlit.app/)
+
 ## Model
 
 - **Architecture:** MobileNetV3 Small (PyTorch)
