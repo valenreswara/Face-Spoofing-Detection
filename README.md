@@ -97,7 +97,7 @@ Confusion matrix and wrong prediction visualizations are available in the notebo
 
 ## 🌐 Web App
 
-![Click here to access the Streamlit app](http://valenreswara-face-spoofing.streamlit.app/)
+[Click here to access the Streamlit app](http://valenreswara-face-spoofing.streamlit.app/)
 
 ---
 
